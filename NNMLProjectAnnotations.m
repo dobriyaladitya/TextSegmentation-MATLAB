@@ -1,0 +1,1 @@
+baby = imread("baby.jpg");
